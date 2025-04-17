@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.erorrInput {
+  border: 2px solid red;
+}
+.erorrText {
+  color: red;
+}
+
+.activeButton{
+  background-color: #646cff;
+}
